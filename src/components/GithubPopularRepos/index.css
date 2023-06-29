@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.main-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.main-heading {
+  color: #0f172a;
+  font-family: Lobster;
+  font-weight: 500;
+  font-size: 20px;
+}
+.unOrder-list {
+  list-style-type: none;
+  display: flex;
+}
+.unOrder-list1 {
+  list-style-type: none;
+  display: flex;
+}
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.failure-image {
+  width: 120px;
+  height: 80px;
+}
+.failure-text {
+  color: #0f172a;
+  font-family: Lobster;
+  font-weight: 500;
+  font-size: 24px;
+}

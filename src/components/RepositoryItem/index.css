@@ -1,0 +1,38 @@
+/* Write your CSS here */
+.list-container {
+  background-color: #f8f8ff;
+  border-radius: 10px;
+  width: 100px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+.list-image {
+  width: 50px;
+  height: 50px;
+}
+.list-headings {
+  color: #e73959;
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 500;
+}
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.icons {
+  width: 20px;
+  height: 20px;
+  margin-left: 4px;
+}
+.icons-text {
+  color: #1e293b;
+  font-size: 8px;
+  font-family: Roboto;
+  font-weight: 500;
+}

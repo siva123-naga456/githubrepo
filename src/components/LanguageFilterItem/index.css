@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.btn {
+  border: none;
+  background-color: transparent;
+  color: #0f172a;
+  font-size: 12px;
+  font-family: Roboto;
+  font-weight: 600;
+  outline: none;
+  cursor: pointer;
+}
+.active-btn {
+  border: 1px solid #0284c7;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #0284c7;
+  font-size: 12px;
+  font-family: Roboto;
+  outline: none;
+  cursor: pointer;
+}
